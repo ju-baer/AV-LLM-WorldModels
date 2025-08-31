@@ -1,5 +1,6 @@
 <div align="center">
-<h1><b>AV-LLM-WorldModels:</b> </h1> 
+   <img src="image.png" alt="AV-LLM-WorldModels Logo" width="300"/>
+<h1><b>AV-LLM-WorldModels</b> </h1> 
 <h2> <i>Rethinking Autonomous Driving: A Survey and Roadmap for Large Language Models and World Models in Hybrid AV Architectures</i></h2> 
 
 [![Paper](https://img.shields.io/badge/📄_Paper-Coming_Soon-blue?style=for-the-badge)](./paper.pdf)
