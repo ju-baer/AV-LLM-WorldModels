@@ -3,10 +3,10 @@
 <h1><b>AV-LLM-WorldModels</b> </h1> 
 <h2> <i>Rethinking Autonomous Driving: A Survey and Roadmap for Large Language Models and World Models in Hybrid AV Architectures</i></h2> 
 
-[![Paper](https://img.shields.io/badge/📄_Paper-Coming_Soon-blue?style=for-the-badge)](./paper.pdf)
-[![Survey](https://img.shields.io/badge/📚_Survey-Live-green?style=for-the-badge)](#survey)
-[![Demos](https://img.shields.io/badge/🎮_Demos-Interactive-orange?style=for-the-badge)](./demos/)
-[![Roadmap](https://img.shields.io/badge/🗺️_Roadmap-2025--2030-purple?style=for-the-badge)](#roadmap)
+[![Paper](https://img.shields.io/badge/Paper-Coming_Soon-blue?style=for-the-badge)](./paper.pdf)
+[![Survey](https://img.shields.io/badge/Survey-Live-green?style=for-the-badge)](#survey)
+[![Demos](https://img.shields.io/badge/Demos-Coming_Soon-orange?style=for-the-badge)](./demos/)
+[![Roadmap](https://img.shields.io/badge/Roadmap-2025--2030-purple?style=for-the-badge)](#roadmap)
 [![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge)](./LICENSE)
 
 *Bridging Language, Imagination, and Autonomous Intelligence*
@@ -35,7 +35,7 @@ Traditional AV pipelines are brittle chains of specialized modules. When one bre
 ---
 
 
-## Core Contributions
+## Core Contributions that I want to have 
 
 ### Comprehensive Taxonomy
 A novel multi-dimensional classification system spanning:
@@ -97,14 +97,14 @@ Strategic vision for 2025-2030 covering:
 
 | Demo | Description | Complexity | Interactive |
 |------|-------------|------------|-------------|
-| **Toy World Model** | 2D driving with predictive simulation | Beginner | ✅ |
-| **LLM Reasoning** | Natural language traffic decision-making | Intermediate | ✅ |
-| **Hybrid Pipeline** | Full LLM-World Model integration | Advanced | ✅ |
-| **Taxonomy Explorer** | Interactive model classification | All Levels | ✅ |
+| **Toy World Model** | 2D driving with predictive simulation | Beginner | Yes |
+| **LLM Reasoning** | Natural language traffic decision-making | Intermediate | Yes |
+| **Hybrid Pipeline** | Full LLM-World Model integration | Advanced | Yes |
+| **Taxonomy Explorer** | Interactive model classification | All Levels | Yes |
 
 ---
 
-## Curated Resources
+## Curated Resources that this repo will have
 
 ### Papers
 The `survey/` folder organizes key papers into categories:
@@ -112,8 +112,6 @@ The `survey/` folder organizes key papers into categories:
 - **LLMs in Robotics/Vision**: PaLM-E, RT-2, DriveGPT, Lingo-1/Lingo-2, DriveLM, LLaVA, GPT-4V, CLIP-ViT, Octo, VLA, AutoLLM, DriveChat.
 - **Foundation Models for AV Perception**: BEVFormer, VAD, UniAD, TransFusion, Lingo-AV, OpenDrive, E2EAD.
 - **Multimodal Integration**: Sensor fusion and language grounding (e.g., Talk2Car, BDD-X).
-
-Each `.md` file includes paper titles, authors, publication details, and links to arXiv or publisher pages.
 
 ### Datasets
 The `datasets/` folder curates AV datasets with a focus on language annotations:
@@ -148,17 +146,5 @@ Our roadmap (`roadmap/`) envisions the future of AVs with LLMs and world models:
 - **Transfer Learning**: Adapting models across domains (urban, rural, highway).
 - **Evaluation Metrics**: Standardized metrics for reasoning, safety, and scenario coverage.
 
-Explore `roadmap/future_research.md` for detailed ideas and `roadmap/evaluation_metrics.md` for proposed benchmarks.
-
 ---
 
-## Repository Statistics
-
-```
-Survey Papers: 150+ curated references
-Model Coverage: 50+ LLMs, World Models, Foundation Models  
-Datasets: 20+ AV datasets with language annotations
-Demos: 4 interactive Jupyter notebooks
-```
-
----
